@@ -1,0 +1,3 @@
+Count: 100 
+FLAN With No Context Scores: Precision: 0.6263602941176472, Recall: 0.59, F1: 0.5755628730191397
+

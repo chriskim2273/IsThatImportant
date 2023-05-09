@@ -1,0 +1,5 @@
+Count: 100 
+FLAN With Title Scores: Precision: 0.8709558823529412, Recall: 0.88, F1: 0.8743554952510176
+
+FLAN With No Title Scores: Precision: 0.8709558823529412, Recall: 0.88, F1: 0.8743554952510176
+

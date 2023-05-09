@@ -1,0 +1,100 @@
+Question: is the berlin wall the same as the berlin blockade. Provided Answer: 0. Correct Answer: 0
+Question: is there a belt above black in karate. Provided Answer: 1. Correct Answer: 0
+Question: did arizona die in season 8 of grey's anatomy. Provided Answer: 0. Correct Answer: 0
+Question: is there a border between england and scotland. Provided Answer: 1. Correct Answer: 1
+Question: is language the only criteria of classifying state in india. Provided Answer: 0. Correct Answer: 0
+Question: is grey's anatomy filmed at a real hospital. Provided Answer: 1. Correct Answer: 1
+Question: can you put 700c tires on a 29er. Provided Answer: 1. Correct Answer: 1
+Question: is it illegal for a minor to be in possession of alcohol. Provided Answer: 1. Correct Answer: 1
+Question: are ground coriander and cumin the same thing. Provided Answer: 0. Correct Answer: 0
+Question: do u get paid to be on survivor. Provided Answer: 1. Correct Answer: 1
+Question: are dachshunds and weiner dogs the same thing. Provided Answer: 1. Correct Answer: 1
+Question: do adjectives have to come before a noun. Provided Answer: 0. Correct Answer: 0
+Question: is st kitts and nevis a us territory. Provided Answer: 0. Correct Answer: 0
+Question: is cheaper by the dozen based on a true story. Provided Answer: 1. Correct Answer: 1
+Question: can you play soccer on a football field. Provided Answer: 1. Correct Answer: 1
+Question: do the internal intercostal muscles contract during inspiration. Provided Answer: 0. Correct Answer: 1
+Question: do you have to be born with perfect pitch. Provided Answer: 0. Correct Answer: 0
+Question: is an ace 2 3 4 5 a straight. Provided Answer: 1. Correct Answer: 1
+Question: is season 5 of the originals the series finale. Provided Answer: 1. Correct Answer: 1
+Question: has anyone won the grand slam in golf. Provided Answer: 1. Correct Answer: 1
+Question: can a filibuster stop a supreme court nominee. Provided Answer: 0. Correct Answer: 1
+Question: is city of industry in los angeles county. Provided Answer: 1. Correct Answer: 1
+Question: is song of solomon the same as song of songs. Provided Answer: 1. Correct Answer: 1
+Question: did the pirates of the caribbean ride come first. Provided Answer: 1. Correct Answer: 1
+Question: is it true that ethiopia has 13 months. Provided Answer: 1. Correct Answer: 1
+Question: is the wizarding world of harry potter in islands of adventure. Provided Answer: 1. Correct Answer: 1
+Question: is there a season 7 of the sopranos. Provided Answer: 1. Correct Answer: 0
+Question: is a yard the same as a meter. Provided Answer: 0. Correct Answer: 0
+Question: does the sun orbit around the milky way. Provided Answer: 1. Correct Answer: 1
+Question: is the white cover on brie cheese edible. Provided Answer: 1. Correct Answer: 1
+Question: is a wheel and axle a simple machine. Provided Answer: 1. Correct Answer: 1
+Question: is there going to be a jack reacher 2. Provided Answer: 1. Correct Answer: 1
+Question: is 22 magnum and 22 wmr the same. Provided Answer: 1. Correct Answer: 1
+Question: is wrath of the titans a sequel to clash of the titans. Provided Answer: 1. Correct Answer: 1
+Question: is z nation a spinoff of the walking dead. Provided Answer: 0. Correct Answer: 0
+Question: is there a difference between muay thai and thai boxing. Provided Answer: 0. Correct Answer: 0
+Question: is the queen's birthday a public holiday in victoria. Provided Answer: 1. Correct Answer: 1
+Question: are fear the walking dead and the walking dead related. Provided Answer: 1. Correct Answer: 1
+Question: can i get into canada with a military id. Provided Answer: 0. Correct Answer: 1
+Question: is there a congestion charge in london on sunday. Provided Answer: 0. Correct Answer: 0
+Question: did christine and the phantom have a son. Provided Answer: 1. Correct Answer: 1
+Question: is the speed of sound constant for all materials. Provided Answer: 0. Correct Answer: 0
+Question: is the president the only member of the executive branch. Provided Answer: 0. Correct Answer: 1
+Question: can you build up an immunity to arsenic. Provided Answer: 1. Correct Answer: 1
+Question: is the singer from blur in the gorillaz. Provided Answer: 1. Correct Answer: 1
+Question: was there helicopters in the second world war. Provided Answer: 1. Correct Answer: 1
+Question: is women's college world series double elimination. Provided Answer: 1. Correct Answer: 1
+Question: can you own a skunk in the uk. Provided Answer: 1. Correct Answer: 1
+Question: is there such a thing as brain freeze. Provided Answer: 1. Correct Answer: 1
+Question: did the queen have any brothers or sisters. Provided Answer: 2. Correct Answer: 1
+Question: was the movie insomnia based on a book. Provided Answer: 1. Correct Answer: 0
+Question: can you score off a throw in in soccer. Provided Answer: 0. Correct Answer: 0
+Question: was the king and i based on a true story. Provided Answer: 1. Correct Answer: 1
+Question: is the cast of mama mia the same. Provided Answer: 1. Correct Answer: 1
+Question: is father's day the same day every year. Provided Answer: 0. Correct Answer: 0
+Question: is there a season 9 of pretty little liars. Provided Answer: 0. Correct Answer: 0
+Question: are you required to complete the american community survey. Provided Answer: 1. Correct Answer: 1
+Question: is george washington university an ivy league school. Provided Answer: 0. Correct Answer: 0
+Question: can you take the money in who wants to be a millionaire. Provided Answer: 1. Correct Answer: 1
+Question: is the son of beast still at kings island. Provided Answer: 0. Correct Answer: 0
+Question: is chewing tobacco banned in major league baseball. Provided Answer: 1. Correct Answer: 1
+Question: did brendon urie wrote death of a bachelor. Provided Answer: 1. Correct Answer: 1
+Question: is there silver in a 1971 silver dollar. Provided Answer: 1. Correct Answer: 1
+Question: do you have to have a wicket keeper in cricket. Provided Answer: 0. Correct Answer: 0
+Question: is there a post credit scene in ifinity war. Provided Answer: 1. Correct Answer: 1
+Question: does any structure separate the abdominal cavity and pelvic cavity. Provided Answer: 0. Correct Answer: 0
+Question: is devil may cry 5 set after 2. Provided Answer: 1. Correct Answer: 1
+Question: was the color purple based on a true story. Provided Answer: 0. Correct Answer: 0
+Question: is petroleum an example of a fossil fuel. Provided Answer: 1. Correct Answer: 1
+Question: does the monorail go to las vegas airport. Provided Answer: 0. Correct Answer: 0
+Question: is national and enterprise car rental the same company. Provided Answer: 1. Correct Answer: 0
+Question: was egypt a part of the ottoman empire. Provided Answer: 1. Correct Answer: 1
+Question: has there ever been a movie rated nc-17. Provided Answer: 1. Correct Answer: 1
+Question: is san pedro laguna part of metro manila. Provided Answer: 0. Correct Answer: 0
+Question: is a boston terrier a small breed dog. Provided Answer: 1. Correct Answer: 1
+Question: did william the conqueror have a legitimate claim to the english throne. Provided Answer: 1. Correct Answer: 1
+Question: is the cortex of the cerebellum gray matter. Provided Answer: 1. Correct Answer: 1
+Question: did the titanic sank on its maiden voyage. Provided Answer: 1. Correct Answer: 1
+Question: is new england baptist hospital a teaching hospital. Provided Answer: 1. Correct Answer: 1
+Question: are the mountains in utah part of the rockies. Provided Answer: 1. Correct Answer: 1
+Question: will there be another now you see me movie. Provided Answer: 1. Correct Answer: 1
+Question: has a school shooting happened in a private school. Provided Answer: 1. Correct Answer: 1
+Question: is there a difference in structure of the two atria. Provided Answer: 0. Correct Answer: 1
+Question: do you qualify for the world cup if you host it. Provided Answer: 1. Correct Answer: 1
+Question: can you open carry in nc with a concealed permit. Provided Answer: 0. Correct Answer: 1
+Question: is there a red light district in brussels. Provided Answer: 1. Correct Answer: 1
+Question: does density depend on the type of material. Provided Answer: 1. Correct Answer: 1
+Question: was integration the rule in the northern states. Provided Answer: 0. Correct Answer: 0
+Question: is 1 ounce the same as 1 fluid ounce. Provided Answer: 0. Correct Answer: 1
+Question: is there a season 4 of crazy ex girlfriend. Provided Answer: 1. Correct Answer: 1
+Question: will there be a series 5 of brokenwood mysteries. Provided Answer: 1. Correct Answer: 1
+Question: will there be a second season of discovery. Provided Answer: 1. Correct Answer: 1
+Question: does the size of a rain gauge matter. Provided Answer: 1. Correct Answer: 1
+Question: is there a sequel to the movie i am four. Provided Answer: 0. Correct Answer: 0
+Question: is the guy from deception really a twin. Provided Answer: 0. Correct Answer: 0
+Question: are the make it or break it cast real gymnasts. Provided Answer: 0. Correct Answer: 0
+Question: is europe a part of the united states. Provided Answer: 0. Correct Answer: 0
+Question: can you score from a throw in in soccer. Provided Answer: 0. Correct Answer: 0
+Question: is new jersey a suburb of new york city. Provided Answer: 1. Correct Answer: 1
+Question: is profit and loss account same as income statement. Provided Answer: 1. Correct Answer: 1
